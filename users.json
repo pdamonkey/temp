@@ -1,0 +1,17 @@
+[
+  {
+    "forename": "Matthew",
+    "surname": "Gallagher",
+    "role": "admin"
+  },
+  {
+    "forename": "John",
+    "surname": "Smith",
+    "role": "guest"
+  },
+  {
+    "forename": "Bruce",
+    "surname": "Willis",
+    "role": "guest"
+  }
+]
